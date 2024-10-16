@@ -15,3 +15,7 @@ Professor Shenyue Jia
 
 - [Understanding map coordinates](https://github.com/LucasD1305/gis-project-portfolio-geo242/blob/6152f5a494f03a27c61061a97f0a9c92999fcce5/map-coordinate-basics/understanding-coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/LucasD1305/gis-project-portfolio-geo242/blob/6152f5a494f03a27c61061a97f0a9c92999fcce5/map-coordinate-basics/Georeferenced-Map-of_Oxford.ipynb)
+
+## Raster Image Analysis
+
+-[Band Composites] ()
