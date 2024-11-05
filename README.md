@@ -19,3 +19,5 @@ Professor Shenyue Jia
 ## Raster Image Analysis
 
 - [Band Composites](https://github.com/LucasD1305/gis-project-portfolio-geo242/blob/fa0a967a7cbc2c8a03e38a003832292838d908d5/raster-image-analysis/understand_band_composite.ipynb)
+
+## Spatial Analysis
